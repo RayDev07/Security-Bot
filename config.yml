@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: '000000000'
+  TOKEN: ''
+  PREFIX: '?'
+  EMBED_COLOR: '#ff0000'
+  OWNERS: ['870179991462236170']
+  MONGO: ''
+links:
+  INVITE: 'https://discord.com/oauth2/authorize?client_id=0000000000&permissions=8&scope=applications.commands%20bot'
+  SUPPORT: 'https://dsc.gg/codexdev'
+  VOTE: 'https://top.gg/bot/0000000/vote'
