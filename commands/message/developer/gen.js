@@ -1,6 +1,6 @@
 /** @format */
 
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 module.exports = {
   name: 'gen',
